@@ -30,7 +30,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 」
+╭─「 ADITTT 」
 │ Hai, %name!
 │
 │ Tersisa *%limit Limit*
@@ -45,7 +45,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/AditPROJECTS
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
